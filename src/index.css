@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(205, 50, 50);
+    text-align: center;
+    color: #fff;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#btn {
+    padding: 10px;
+    background-color: aquamarine;
+    border: none;
+    color: blueviolet;
+    transition: 1s;
+}
+
+#btn:hover {
+    background-color: #fff;
+}
